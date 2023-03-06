@@ -8,4 +8,4 @@
 
 # 参考的文章
 
-![免费的GitHub图床PicX](https://blog.csdn.net/wbsu2004/article/details/121154470)
+[免费的GitHub图床PicX](https://blog.csdn.net/wbsu2004/article/details/121154470)
